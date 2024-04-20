@@ -1,0 +1,6 @@
+﻿streamlit
+tensorflow
+keras
+numpy
+pillow
+streamlit_js_eval
