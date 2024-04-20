@@ -25,6 +25,11 @@ FOOD_CLASSES = {
 # Encabezado de la aplicación
 st.title('Clasificador de estados de Alimentos')
 
+# Agregar mensaje de advertencia
+st.write('⚠️ La app web con problemas. Solo muestra la clasificación "Está fresca". ⚠️')
+st.write('🚧 Trabajando en solución o alternativa a Streamlit. 🚧')
+st.write('🔎 Los modelos funcionan correctamente en el entorno de Google Colab. 🔎')
+
 # Selección del alimento
 food = st.selectbox('Selecciona un alimento:', ['Manzana', 'Naranja', 'Banana'])
 
