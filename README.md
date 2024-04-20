@@ -32,7 +32,9 @@ El dataset de imágenes fue obtenido de [Kaggle](https://www.kaggle.com/datasets
 ## Aplicación web con los modelos entrenados.
 
 ⚠️ La app web con problemas. Solo muestra la clasificación "Está fresca". ⚠️
+
 🚧 Trabajando en solución o alternativa a Streamlit. 🚧
+
 🔎 Los modelos funcionan correctamente en el entorno de Google Colab. 🔎
 
 Luego de completar el modelado de CNN para los alimentos (naranjas, manzanas, bananas), he creado una aplicación web con Streamlit para poder hacer clasificaciones de una forma amigable. Para poder acceder a ella, haz click [aquí.](https://foodqualityclassifier-deeplearning-wv-bigdata.streamlit.app/)
