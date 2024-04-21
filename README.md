@@ -11,9 +11,9 @@
 
 **Rendimiento de los modelados**:
 
-*Modelo para naranjas*: En Test obtuvo un Accuracy del 93.0%.
+*Modelo para naranjas*: En Test obtuvo un Accuracy del 94.8%.
 
-*Modelo para manzanas*: En Test obtuvo un Accuracy del 91.7%.
+*Modelo para manzanas*: En Test obtuvo un Accuracy del 98.7% *(claro overfitting)*.
 
 *Modelo para bananas*: En Test obtuvo un Accuracy del 99.8% *(claro overfitting)*.
 
