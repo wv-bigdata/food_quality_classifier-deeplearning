@@ -37,4 +37,12 @@ El dataset de imágenes fue obtenido de [Kaggle](https://www.kaggle.com/datasets
 
 🔎 Los modelos funcionan correctamente en el entorno de Google Colab. 🔎
 
-Luego de completar el modelado de CNN para los alimentos (naranjas, manzanas, bananas), he creado una aplicación web con Streamlit para poder hacer clasificaciones de una forma amigable. Para poder acceder a ella, haz click [aquí.](https://foodqualityclassifier-deeplearning-wv-bigdata.streamlit.app/)
+🍎 [Aplicando el modelo de manzanas en Google Colab](https://colab.research.google.com/drive/1hud2xEeDdU1-qAv48q7Nj0Vv2jWhaan_?usp=sharing)
+
+🍊 [Aplicando el modelo de naranjas en Google Colab](https://colab.research.google.com/drive/1AeKtykonhfhhT2g2ctTDi04eRi2oyXjN?usp=sharing)
+
+🍌 [Aplicando el modelo de naranjas en Google Colab](https://colab.research.google.com/drive/1PFwip__JW0yYBQUGnvmDyP2SIUfo9xSi?usp=sharing)
+
+---
+
+Luego de completar el modelado de CNN para los alimentos (naranjas, manzanas, bananas), he estado buscando una manera amigable para usar los modelos por medio de una app web. Se intentó con Streamlit, pero el modelo solo dice que las imágenes representan frutas frescas, haz click [aquí.](https://foodqualityclassifier-deeplearning-wv-bigdata.streamlit.app/)
