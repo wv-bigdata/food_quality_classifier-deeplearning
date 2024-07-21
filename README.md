@@ -45,4 +45,4 @@ El dataset de imágenes fue obtenido de [Kaggle](https://www.kaggle.com/datasets
 
 ---
 
-Luego de completar el modelado de CNN para los alimentos (naranjas, manzanas, bananas), he estado buscando una manera amigable para usar los modelos por medio de una app web. Se intentó con Streamlit, pero el modelo solo dice que las imágenes representan frutas frescas, haz click [aquí.](https://foodqualityclassifier-deeplearning-wv-bigdata.streamlit.app/)
+~~Luego de completar el modelado de CNN para los alimentos (naranjas, manzanas, bananas), he estado buscando una manera amigable para usar los modelos por medio de una app web. Se intentó con Streamlit, pero el modelo solo dice que las imágenes representan frutas frescas, haz click [aquí.](https://foodqualityclassifier-deeplearning-wv-bigdata.streamlit.app/)~~
