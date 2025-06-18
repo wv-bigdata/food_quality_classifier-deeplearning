@@ -41,7 +41,7 @@ El dataset de imágenes fue obtenido de [Kaggle](https://www.kaggle.com/datasets
 
 🍊 [Aplicando el modelo de naranjas en Google Colab](https://colab.research.google.com/drive/1AeKtykonhfhhT2g2ctTDi04eRi2oyXjN?usp=sharing)
 
-🍌 [Aplicando el modelo de naranjas en Google Colab](https://colab.research.google.com/drive/1PFwip__JW0yYBQUGnvmDyP2SIUfo9xSi?usp=sharing)
+🍌 [Aplicando el modelo de bananas en Google Colab](https://colab.research.google.com/drive/1PFwip__JW0yYBQUGnvmDyP2SIUfo9xSi?usp=sharing)
 
 ---
 
